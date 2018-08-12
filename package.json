@@ -2,7 +2,7 @@
   "name": "bitcore-lib",
   "version": "0.15.0",
   "description": "A pure and powerful JavaScript Bitcoin library.",
-  "author": "BitPay <dev@bitpay.com>",
+  "author": "Clashicly <clashicly@gmail.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
