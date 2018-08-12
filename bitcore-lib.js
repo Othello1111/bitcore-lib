@@ -54020,7 +54020,7 @@ arguments[4][262][0].apply(exports,arguments)
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
 },{}],320:[function(require,module,exports){
 module.exports={
-  "name": "bitcore-lib",
+  "name": "bcore-lib",
   "version": "0.15.0",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
@@ -54049,7 +54049,7 @@ module.exports={
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/bitcoin-cored/bcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -54063,7 +54063,7 @@ module.exports={
     "lodash": "=4.17.4"
   },
   "devDependencies": {
-    "bitcore-build": "https://github.com/bitpay/bitcore-build.git#d4e8b2b2f1e2c065c3a807dcb6a6250f61d67ab3",
+    "bcore-build": "https://github.com/bitcoin-cored/bitcore-build.git",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
